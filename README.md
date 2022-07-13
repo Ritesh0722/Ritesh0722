@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ritesh Kumar, a final year student in B.Tech(CSE) at Amity University Lucknow
+- 👋 Hi, I’m Ritesh Kumar, a graduate in B.Tech(CSE) from Amity University Lucknow
 - 👀 I’m interested in learning new things and also I like to know more about the things that, I learn.
 - 🌱 I’m currently learning App Development using Flutter.
 - 💞️ I’m looking to collaborate on entry level projects which are developed using Flutter
